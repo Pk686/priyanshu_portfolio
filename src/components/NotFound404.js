@@ -78,16 +78,16 @@ const NotFound404 = () => {
     <ThemeProvider theme= { lightTheme }>
       <Box>     
 
-        <MetaTag title= "404 - Page Not Found" />
+        <MetaTag title= "Portfolio - Intro" />
 
         <Headers>
-          <h1>404</h1>
-          <h2>Page Not Found !</h2>    
-          <p>This is not the page you're looking for.</p>      
+          <h1>WELCOME</h1>
+          <h2>Check out my portfolio !</h2>    
+          <p>Thanks !</p>      
         </Headers>
 
         <HomeRedirect to= "/" >
-            <HomeBtn width= {20} height= {20} />&nbsp; Go Back
+            <HomeBtn width= {20} height= {20} />&nbsp; Click Here
         </HomeRedirect>
 
       </Box>
