@@ -16,10 +16,10 @@
     "static/js/6.42d33f82.chunk.js.map": "/priyanshu_portfolio/static/js/6.42d33f82.chunk.js.map",
     "static/js/7.2fe1491d.chunk.js": "/priyanshu_portfolio/static/js/7.2fe1491d.chunk.js",
     "static/js/7.2fe1491d.chunk.js.map": "/priyanshu_portfolio/static/js/7.2fe1491d.chunk.js.map",
-    "main.js": "/priyanshu_portfolio/static/js/main.e807caad.chunk.js",
-    "main.js.map": "/priyanshu_portfolio/static/js/main.e807caad.chunk.js.map",
-    "runtime-main.js": "/priyanshu_portfolio/static/js/runtime-main.6e2c9d8a.js",
-    "runtime-main.js.map": "/priyanshu_portfolio/static/js/runtime-main.6e2c9d8a.js.map",
+    "main.js": "/priyanshu_portfolio/static/js/main.e9e34b37.chunk.js",
+    "main.js.map": "/priyanshu_portfolio/static/js/main.e9e34b37.chunk.js.map",
+    "runtime-main.js": "/priyanshu_portfolio/static/js/runtime-main.191a2635.js",
+    "runtime-main.js.map": "/priyanshu_portfolio/static/js/runtime-main.191a2635.js.map",
     "static/css/10.679831fc.chunk.css": "/priyanshu_portfolio/static/css/10.679831fc.chunk.css",
     "static/js/10.050b4559.chunk.js": "/priyanshu_portfolio/static/js/10.050b4559.chunk.js",
     "static/js/10.050b4559.chunk.js.map": "/priyanshu_portfolio/static/js/10.050b4559.chunk.js.map",
@@ -29,8 +29,8 @@
     "static/js/12.443c83a8.chunk.js.map": "/priyanshu_portfolio/static/js/12.443c83a8.chunk.js.map",
     "static/js/13.6c4b7e21.chunk.js": "/priyanshu_portfolio/static/js/13.6c4b7e21.chunk.js",
     "static/js/13.6c4b7e21.chunk.js.map": "/priyanshu_portfolio/static/js/13.6c4b7e21.chunk.js.map",
-    "static/js/14.1890fd7c.chunk.js": "/priyanshu_portfolio/static/js/14.1890fd7c.chunk.js",
-    "static/js/14.1890fd7c.chunk.js.map": "/priyanshu_portfolio/static/js/14.1890fd7c.chunk.js.map",
+    "static/js/14.e95abedb.chunk.js": "/priyanshu_portfolio/static/js/14.e95abedb.chunk.js",
+    "static/js/14.e95abedb.chunk.js.map": "/priyanshu_portfolio/static/js/14.e95abedb.chunk.js.map",
     "static/js/15.77a06017.chunk.js": "/priyanshu_portfolio/static/js/15.77a06017.chunk.js",
     "static/js/15.77a06017.chunk.js.map": "/priyanshu_portfolio/static/js/15.77a06017.chunk.js.map",
     "static/js/16.9ea3162f.chunk.js": "/priyanshu_portfolio/static/js/16.9ea3162f.chunk.js",
@@ -58,9 +58,9 @@
     "static/media/skills.716c605a.PNG": "/priyanshu_portfolio/static/media/skills.716c605a.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.6e2c9d8a.js",
+    "static/js/runtime-main.191a2635.js",
     "static/css/10.679831fc.chunk.css",
     "static/js/10.050b4559.chunk.js",
-    "static/js/main.e807caad.chunk.js"
+    "static/js/main.e9e34b37.chunk.js"
   ]
 }
