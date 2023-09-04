@@ -81,9 +81,8 @@ const NotFound404 = () => {
         <MetaTag title= "Portfolio - Intro" />
 
         <Headers>
-          <h1>WELCOME</h1>
-          <h2>Check out my portfolio !</h2>    
-          <p>Thanks !</p>      
+          <h1>HEY</h1>
+          <h2>Check Out !</h2>      
         </Headers>
 
         <HomeRedirect to= "/" >
